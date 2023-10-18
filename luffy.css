@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background: #dad7cd;
+}
+
+.child2-1{
+    border-bottom: 15px solid #edede9;
+}
+
+.parent{
+    display: block;
+    width: auto;
+}
+
+.child1{
+    font-family:initial ;
+    letter-spacing: 3px;
+}
+
+.child2{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    border: 10px solid #6c757d;
+}
+
+.italics{
+    font-family: cursive ;
+}
+
+.poster heading{
+    font-family:;
+}
+
+
+
